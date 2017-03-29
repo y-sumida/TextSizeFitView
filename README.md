@@ -1,0 +1,2 @@
+# TextSizeFitView
+UILabelの内容によってサイズを変えるビューのサンプル
